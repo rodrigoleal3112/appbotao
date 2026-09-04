@@ -6,7 +6,7 @@
         <item name="colorSecondary">@color/jotur_green</item>
         <item name="colorTertiary">@color/fenix_red</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightStatusBar">false</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
 </resources>
