@@ -1,0 +1,6 @@
+{
+  "name": "Horários Ônibus",
+  "description": "Acesso rápido com superlinks aos horários e mapas da Jotur e Consórcio Fênix com modo claro e escuro e botão voltar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
